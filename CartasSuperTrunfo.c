@@ -66,6 +66,20 @@ int main(){
     printf("PIB:.%.2f\n", pib1);
     printf("NUMERO DOS PONTOS TURISTICOS:%d\n", ponto1);
 
+    /*%d: Imprime um inteiro no formato decimal.
+     
+    %i: Equivalente a %d.
+     
+    %f: Imprime um número de ponto flutuante no formato padrão.
+     
+    %e: Imprime um número de ponto flutuante na notação científica.
+     
+    %c: Imprime um único caractere.
+     
+    %s: Imprime uma cadeia (string) de caracteres.*/
+
+
+
     return 0; 
 }
 
